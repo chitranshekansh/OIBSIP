@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css2?family=Sofia&display=swap);
+
+body{
+    background-color: #151515;
+}
+.main-holder{
+    background-image: url(main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 650px; 
+    border-radius: 10px;
+    color: #eca1a6;
+    font-family: sofia;
+    font-size: 30px;
+    text-decoration: underline;
+    text-shadow: 2px 2px #bd2f38;
+}
+.image{
+    
+    width: 100%;
+    height: 400px;
+    background-image: url(early.webp);
+    background-repeat: no-repeat;
+}
+.intro{
+    background-color:#142d4c;
+    width: 50%;
+    height: 400px;
+    float: right;
+}
+h4.text{
+    padding: 5px;
+    font-family:sofia;
+    line-height: 2;  
+    font-size: 15px;
+    color: #eca1a6;
+
+}
+.clubs{
+    width: 100%;
+    background-color: #142d4c;
+}
+.trophies{
+    
+    width: 100%;
+    background-color: #151515;
+    color: crimson;
+    font-family: sofia;
+    border: 5px #eca1a6;
+ 
+}
+#trophie{
+    border-color: #eca1a6;
+    border-width: 10px;
+    }
+    th{
+        color: rgb(0, 255, 21);
+    }
